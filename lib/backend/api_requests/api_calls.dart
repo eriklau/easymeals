@@ -23,7 +23,7 @@ class SendFullPromptFunctionsCall {
   Future<ApiCallResponse> call({
     dynamic promptJson,
     String? apiKey =
-        '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',
+        '',
     dynamic functionsJson,
     dynamic functionCallJson,
   }) async {
