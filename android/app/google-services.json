@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079884436695",
+    "project_id": "easymeals-4cd85",
+    "storage_bucket": "easymeals-4cd85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079884436695:android:271b72bd001cd02b360c92",
+        "android_client_info": {
+          "package_name": "com.mealplanner.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIh_aHhLN9GsR6RB_TM_esBVaK7Ou06lE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
